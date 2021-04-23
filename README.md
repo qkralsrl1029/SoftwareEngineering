@@ -19,9 +19,10 @@
     * 나원후, 정재민, 조예진 - NFT token generation
     * 김현석, 조민수 - Community
     * 조성규, 박민기 - Simularity Anaylysis
+    
   https://github.com/JaeHwanWO/SoftwareEngineering/tree/ntf_generator
-  https://github.com/JaeHwanWO/SoftwareEngineering/tree/community
-  https://github.com/JaeHwanWO/SoftwareEngineering/tree/simularity_analysis
+    https://github.com/JaeHwanWO/SoftwareEngineering/tree/community
+    https://github.com/JaeHwanWO/SoftwareEngineering/tree/simularity_analysis
   
 ## Brief System Requirements
 | Identifier | Size | Reequirement |
